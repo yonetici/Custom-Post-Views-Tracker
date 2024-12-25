@@ -51,7 +51,14 @@ The plugin automatically starts tracking views once activated. View counts are d
 2. Find "Popular Posts Tracker" widget  
 3. Drag it to your desired widget area  
 4. Configure the settings as needed  
-  
+
+### Documentation and Support
+
+For more details, updates, and related blog posts, visit [Oneirly.com](https://oneirly.com).
+
+
 ### Shortcode (Coming Soon)
 ```php  
 [popular_posts count="5" timerange="weekly" category="1" show="thumbnail,title,date"]
+
+
